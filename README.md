@@ -1,6 +1,6 @@
 # Hi there, I'm Mihael Savin - aka [JTProg][website] 👋
 
-## I'm a Husband, Father and System administrator:
+## I'm a Husband, Father and Linux administrator:
 - 🐍 I’m currently learning Python
 - 📖 I'm currently learning Django
 - 📖 I'm currently learning FastAPI
@@ -15,7 +15,6 @@
 
 <br />
 <br />
----
 
 ### Languages and Tools:
 
