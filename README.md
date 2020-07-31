@@ -24,7 +24,14 @@
 <img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/cib:mongodb.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 <img align="left" alt="Git" width="26px" src="https://api.iconify.design/fa-brands:git-square.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 <img align="left" alt="GitHub" width="26px" src="https://api.iconify.design/codicon:github.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
-
+<img align="left" alt="Ubuntu" width="26px" src="https://api.iconify.design/simple-icons:ubuntu.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="CenOS" width="26px" src="https://api.iconify.design/fa-brands:centos.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="Kubernetes" width="26px" src="https://api.iconify.design/simple-icons:kubernetes.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="JIRA" width="26px" src="https://api.iconify.design/simple-icons:jira.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="GitLab" width="26px" src="https://api.iconify.design/cib:gitlab.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="Prometheus" width="26px" src="https://api.iconify.design/simple-icons:prometheus.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="Ansible" width="26px" src="https://api.iconify.design/simple-icons:ansible.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="Python" width="26px" src="https://api.iconify.design/cib:python.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 
 <br />
 <br />
