@@ -12,7 +12,7 @@
 [<img align="left" width="26px" alt="Twitter" src="https://api.iconify.design/jam:twitter-square.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][twitter]
 [<img align="left" width="26px" alt="Telegram" src="https://api.iconify.design/ri:telegram-line.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][telegram]
 [<img align="left" width="26px" alt="Email" src="https://api.iconify.design/entypo:email.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][email]
-
+[<img align="left" width="26px" alt="Habr" src="https://api.iconify.design/simple-icons:habr.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][habr]
 <br />
 <br />
 
@@ -57,3 +57,5 @@
 [telegram]: https://t.me/JTProgru
 [sysodminium]: https://t.me/sysodminium
 [email]: mailto:mail@jtprog.ru
+[habr]: https://habr.com/ru/users/jtprog/
+
