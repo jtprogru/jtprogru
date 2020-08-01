@@ -32,6 +32,7 @@
 <img align="left" alt="Prometheus" width="26px" src="https://api.iconify.design/simple-icons:prometheus.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 <img align="left" alt="Ansible" width="26px" src="https://api.iconify.design/simple-icons:ansible.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 <img align="left" alt="Python" width="26px" src="https://api.iconify.design/cib:python.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="Nginx" width="26px" src="https://api.iconify.design/cib:nginx.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 
 <br />
 <br />
