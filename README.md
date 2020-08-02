@@ -41,11 +41,11 @@
 
 ### 📚 Latest Blog Posts (on Rus)
 <!-- BLOG-POST-LIST:START -->
+- [[Docker] Установка Docker на Ubuntu 20.04](https://jtprog.ru/docker-install/)
 - [[Netbox] Установка Netbox на Ubuntu 20.04 ](https://jtprog.ru/netbox/)
 - [[GOST] Порядок перехода УЦ с ГОСТ-2001 на ГОСТ-2012](https://jtprog.ru/gost-2012/)
 - [[Grafana] Установка Grafana 7 на Ubuntu 20.04](https://jtprog.ru/install-grafana7/)
 - [[Ubuntu] Установка Zabbix 5.0 на Ubuntu 20.04](https://jtprog.ru/install-zabbix50/)
-- [[HAProxy] Установка HAProxy на Centos 8](https://jtprog.ru/haproxy-centos8/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
