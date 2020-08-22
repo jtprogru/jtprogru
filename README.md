@@ -5,12 +5,13 @@
 - 📖 I'm currently learning Django
 - 📖 I'm currently learning FastAPI
 - 🍻 Fun fact: I love craft beer and collect beer coasters
+- 🧬 My bio (Russian) on my [blog][bio]
 
 ### Connect with me:
 
 [<img align="left" width="26px" alt="Blog" src="https://api.iconify.design/mdi:web.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][website]
 [<img align="left" width="26px" alt="Twitter" src="https://api.iconify.design/jam:twitter-square.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][twitter]
-[<img align="left" width="26px" alt="Telegram" src="https://api.iconify.design/ri:telegram-line.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][telegram]
+[<img align="left" width="26px" alt="Telegram" src="https://api.iconify.design/ri:telegram-line.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][telegram_chat]
 [<img align="left" width="26px" alt="Email" src="https://api.iconify.design/entypo:email.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][email]
 [<img align="left" width="26px" alt="Habr" src="https://api.iconify.design/simple-icons:habr.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][habr]
 <br />
@@ -52,10 +53,11 @@
 
 <img align="left" alt="jtprog's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtprog&show_icons=true&hide_border=true" />
 
+[bio]: https://jtprog.ru/about-me/
 [website]: https://jtprog.ru
 [twitter]: https://twitter.com/jtprogru
 [instagram]: https://instagram.com/jtprog
-[telegram]: https://t.me/JTProgru
+[telegram_chat]: https://t.me/sysodminium_chat
 [sysodminium]: https://t.me/sysodminium
 [email]: mailto:mail@jtprog.ru
 [habr]: https://habr.com/ru/users/jtprog/
