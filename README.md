@@ -5,7 +5,8 @@
 - 📖 I'm currently learning Django
 - 📖 I'm currently learning FastAPI
 - 🍻 Fun fact: I love craft beer and collect beer coasters
-- 🧬 My bio (Russian) on my [blog][bio]
+- 🧬 My bio (in Russian) on my [blog][bio]
+- 📋 My CV (in Russian) on my [site][cv]
 
 ### Connect with me:
 
@@ -33,6 +34,7 @@
 <img align="left" alt="Prometheus" width="26px" src="https://api.iconify.design/simple-icons:prometheus.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 <img align="left" alt="Ansible" width="26px" src="https://api.iconify.design/simple-icons:ansible.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 <img align="left" alt="Python" width="26px" src="https://api.iconify.design/cib:python.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="YAML" width="26px" src="https://api.iconify.design/file-icons:yaml-alt4.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 <img align="left" alt="Nginx" width="26px" src="https://api.iconify.design/cib:nginx.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 
 <br />
@@ -40,13 +42,13 @@
 
 ---
 
-### 📚 Latest Blog Posts (on Rus)
+### 📚 Latest Blog Posts (in Russian)
 <!-- BLOG-POST-LIST:START -->
 - [[MySQL] Максимальное количество коннектов](https://jtprog.ru/max-connections/)
 - [[Docker] Основы Docker: Dockerfile и docker-compose.yml](https://jtprog.ru/docker-base/)
 - [[Docker] Установка Docker на Ubuntu 20.04](https://jtprog.ru/docker-install/)
 - [[Netbox] Установка Netbox на Ubuntu 20.04](https://jtprog.ru/netbox/)
-- [[Grafana] Установка Grafana 7 на Ubuntu 20.04](https://jtprog.ru/install-grafana7/)
+- [[GOST] Порядок перехода УЦ с ГОСТ-2001 на ГОСТ-2012](https://jtprog.ru/gost-2012/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -54,6 +56,7 @@
 <img align="left" alt="jtprog's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtprog&show_icons=true&hide_border=true" />
 
 [bio]: https://jtprog.ru/about-me/
+[cv]: https://jtprog.ru/resume/
 [website]: https://jtprog.ru
 [twitter]: https://twitter.com/jtprogru
 [instagram]: https://instagram.com/jtprog
