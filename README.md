@@ -48,7 +48,7 @@
 - [[Docker] Основы Docker: Dockerfile и docker-compose.yml](https://jtprog.ru/docker-base/)
 - [[Docker] Установка Docker на Ubuntu 20.04](https://jtprog.ru/docker-install/)
 - [[Netbox] Установка Netbox на Ubuntu 20.04](https://jtprog.ru/netbox/)
-- [[GOST] Порядок перехода УЦ с ГОСТ-2001 на ГОСТ-2012](https://jtprog.ru/gost-2012/)
+- [[Grafana] Установка Grafana 7 на Ubuntu 20.04](https://jtprog.ru/install-grafana7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
