@@ -44,11 +44,11 @@
 
 ### 📚 Latest Blog Posts (in Russian)
 <!-- BLOG-POST-LIST:START -->
+- [[Nginx] Логи Nginx в JSON](https://jtprog.ru/nginx-json-logs/)
 - [[MySQL] Максимальное количество коннектов](https://jtprog.ru/max-connections/)
 - [[Docker] Основы Docker: Dockerfile и docker-compose.yml](https://jtprog.ru/docker-base/)
 - [[Docker] Установка Docker на Ubuntu 20.04](https://jtprog.ru/docker-install/)
 - [[Netbox] Установка Netbox на Ubuntu 20.04](https://jtprog.ru/netbox/)
-- [[Grafana] Установка Grafana 7 на Ubuntu 20.04](https://jtprog.ru/install-grafana7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
