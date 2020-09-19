@@ -5,7 +5,6 @@
 - 📖 I'm currently learning Django
 - 📖 I'm currently learning FastAPI
 - 🍻 Fun fact: I love craft beer and collect beer coasters
-- 🧬 My bio (in Russian) on my [blog][bio]
 - 📋 My CV (in Russian) on my [site][cv]
 
 ### Connect with me:
