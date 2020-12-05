@@ -43,11 +43,11 @@
 
 ### 📚 Latest Blog Posts (in Russian)
 <!-- BLOG-POST-LIST:START -->
+- [[Linux] Что показывает atop?](https://jtprog.ru/man-atop/)
 - [[Linux] Настройка systemd-resolved](https://jtprog.ru/systemd-resolved/)
 - [[Linux] Настраиваем systemd-timesyncd](https://jtprog.ru/systemd-timesyncd/)
 - [[GitLab] Установка GitLab Runner](https://jtprog.ru/install-gitlab-runner/)
 - [[Opinion] Что ты такое – DevOps?](https://jtprog.ru/wat-devops/)
-- [[DevOps] GitLab-CI – делаем себе просто](https://jtprog.ru/gitlab-ci/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
