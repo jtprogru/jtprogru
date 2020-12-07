@@ -1,17 +1,16 @@
 # Hi there, I'm Mihael Savin - aka [JTProg][website] 👋
 
-## I'm a Husband, Father and Linux administrator:
-- 🐍 I’m currently learning Python
-- 📖 I'm currently learning Django
+## I'm a Husband, Father and DevOps:
+- ☕️ I use Ansible for almost everything
 - 📖 I'm currently learning FastAPI
 - 🍻 Fun fact: I love craft beer and collect beer coasters
-- 📋 My CV (in Russian) on my [site][cv]
+- 📋 My CV (in Russian) on my [site][rucv]
 
 ### Connect with me:
 
+[<img align="left" width="26px" alt="Telegram" src="https://api.iconify.design/ri:telegram-line.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][telegram_chat]
 [<img align="left" width="26px" alt="Blog" src="https://api.iconify.design/mdi:web.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][website]
 [<img align="left" width="26px" alt="Twitter" src="https://api.iconify.design/jam:twitter-square.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][twitter]
-[<img align="left" width="26px" alt="Telegram" src="https://api.iconify.design/ri:telegram-line.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][telegram_chat]
 [<img align="left" width="26px" alt="Email" src="https://api.iconify.design/entypo:email.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][email]
 [<img align="left" width="26px" alt="Habr" src="https://api.iconify.design/simple-icons:habr.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][habr]
 <br />
@@ -55,12 +54,12 @@
 <img align="left" alt="jtprog's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtprog&show_icons=true&hide_border=true" />
 
 [bio]: https://jtprog.ru/about-me/
-[cv]: https://jtprog.ru/resume/
+[rucv]: https://jtprog.ru/resume/
 [website]: https://jtprog.ru
 [twitter]: https://twitter.com/jtprogru
 [instagram]: https://instagram.com/jtprog
-[telegram_chat]: https://t.me/sysodminium_chat
-[sysodminium]: https://t.me/sysodminium
+[telegram_chat]: https://t.me/sysopschat
+[sysodminium]: https://t.me/sysopschannel
 [email]: mailto:mail@jtprog.ru
 [habr]: https://habr.com/ru/users/jtprog/
 
