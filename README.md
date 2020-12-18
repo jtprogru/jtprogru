@@ -13,7 +13,7 @@
 [<img align="left" width="26px" alt="Twitter" src="https://api.iconify.design/jam:twitter-square.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][twitter]
 [<img align="left" width="26px" alt="Email" src="https://api.iconify.design/entypo:email.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][email]
 [<img align="left" width="26px" alt="Habr" src="https://api.iconify.design/simple-icons:habr.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][habr]
-[![Mihael Savin's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/jtprog)
+[<img align="left" width="26px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mihael Savin's DEV Profile"  />](https://dev.to/jtprog)
 
 <br />
 <br />
