@@ -1,0 +1,24 @@
+---
+- name: CV
+  hosts: all
+  become: true
+  become_user: Savin Mihael
+  strategy: free
+  serial: 1
+
+  vars:
+    ansible_distribution: ["Ubuntu", "Debian", "RHEL", "CentOS"]
+    practice: ["DevOps", "IaC", "CI/CD", "DaC"]
+    instruments: 
+      - configuration_managment: "Ansible"
+      - version_control: ["GitLab", "Github", "Bitrbucket"]
+      - task_manager: ["Jira", "Trello"]
+      - monitoring: ["Zabbix", "Prometheus", "Netdata"]
+      - documentation: ["Confluence", "Wiki"]
+      - virtualisation: ["Proxmox", "VMware", "Hyper-V"]
+      - orchestrator: ["Swarm", "Kubernetes"]
+    contacts:
+      site: "https://jtprog.ru"
+      email: "mail@jtprog.ru"
+      telegram: "@JTProgru"
+
