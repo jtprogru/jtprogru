@@ -44,11 +44,11 @@
 
 ### 📚 Latest Blog Posts (in Russian)
 <!-- BLOG-POST-LIST:START -->
+- [[DevOps] Ansible – основы управления конфигурацией](https://jtprog.ru/ansible-basic/)
 - [[Linux] Что показывает atop?](https://jtprog.ru/man-atop/)
 - [[Linux] Настройка systemd-resolved](https://jtprog.ru/systemd-resolved/)
 - [[Linux] Настраиваем systemd-timesyncd](https://jtprog.ru/systemd-timesyncd/)
 - [[GitLab] Установка GitLab Runner](https://jtprog.ru/install-gitlab-runner/)
-- [[Opinion] Что ты такое – DevOps?](https://jtprog.ru/wat-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
