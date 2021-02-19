@@ -1,4 +1,4 @@
-# Hi there, I'm Mihael Savin - aka [JTProg][website] 👋
+# Hi there, I'm Michel Savin - aka [jtprogru][website] 👋
 
 ## I'm a Husband, Father and DevOps:
 - ☕️ I use Ansible for almost everything
