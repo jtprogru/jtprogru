@@ -54,7 +54,7 @@
 
 ---
 
-<img align="left" alt="jtprog's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtprog&show_icons=true&hide_border=true" />
+<img align="left" alt="jtprog's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtprogru&show_icons=true&hide_border=true" />
 
 [bio]: https://jtprog.ru/about-me/
 [rucv]: https://jtprog.ru/resume/
