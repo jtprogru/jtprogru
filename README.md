@@ -62,7 +62,7 @@
 [twitter]: https://twitter.com/jtprogru
 [instagram]: https://instagram.com/jtprog
 [telegram_chat]: https://t.me/sysopschat
-[sysodminium]: https://t.me/sysopschannel
+[sysopschannel]: https://t.me/sysopschannel
 [email]: mailto:mail@jtprog.ru
 [habr]: https://habr.com/ru/users/jtprog/
 
