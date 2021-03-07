@@ -2,23 +2,30 @@
 - name: CV
   hosts: all
   become: true
-  become_user: Savin Mihael
+  become_user: Michael Savin
   strategy: free
-  serial: 1
 
   vars:
+    remote_user: "jtprogru"
     ansible_distribution: ["Ubuntu", "Debian", "RHEL", "CentOS"]
     practice: ["DevOps", "IaC", "CI/CD", "DaC"]
     instruments: 
-      - configuration_managment: "Ansible"
-      - version_control: ["GitLab", "Github", "Bitrbucket"]
+      - configuration_managment: ["Ansible", "SaltStack"]
+      - version_control: ["GitLab", "GitHub", "Bitrbucket"]
       - task_manager: ["Jira", "Trello"]
-      - monitoring: ["Zabbix", "Prometheus", "Netdata"]
-      - documentation: ["Confluence", "Wiki"]
-      - virtualisation: ["Proxmox", "VMware", "Hyper-V"]
+      - monitoring: ["Zabbix", "Prometheus"]
+      - documentation: ["Confluence", "GiLab/GitHub Wiki"]
+      - virtualisation: ["Proxmox", "VMware"]
       - orchestrator: ["Swarm", "Kubernetes"]
     contacts:
       site: "https://jtprog.ru"
+      cv: "https://jtprog.ru/resume/"
       email: "mail@jtprog.ru"
-      telegram: "@JTProgru"
+      telegram: "@jtprogru"
+      twitter: "@jtprogru"
+
+  roles:
+    - "{{ remote_user }}.infrastructure_engineer"
+    - "{{ remote_user }}.linux_administrator"
+    - "{{ remote_user }}.devops_engineer"
 
