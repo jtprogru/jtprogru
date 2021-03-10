@@ -55,6 +55,8 @@
 
 ---
 ![jtprogru's Github Stats](https://github-readme-stats.vercel.app/api?username=jtprogru&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtprogru&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
+
 
 [bio]: https://jtprog.ru/about-me/
 [rucv]: https://jtprog.ru/resume/
