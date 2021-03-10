@@ -1,4 +1,5 @@
 # Hi there, I'm Michael Savin - aka [jtprogru][website] 👋
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=jtprogru)
 
 ## I'm a Husband, Father and DevOps:
 - ☕️ I use Ansible for almost everything
@@ -53,8 +54,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-<img align="left" alt="jtprog's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtprogru&show_icons=true&hide_border=true" />
+![jtprogru's Github Stats](https://github-readme-stats.vercel.app/api?username=jtprogru&show_icons=true&theme=radical)
 
 [bio]: https://jtprog.ru/about-me/
 [rucv]: https://jtprog.ru/resume/
