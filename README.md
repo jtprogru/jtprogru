@@ -46,11 +46,11 @@
 
 ### 📚 Latest Blog Posts (in Russian)
 <!-- BLOG-POST-LIST:START -->
+- [[Work] Перенос сайта на хостинг с BitrixVM](https://jtprog.ru/bitrixvm-hosting/)
 - [[DevOps] Ansible – основы управления конфигурацией](https://jtprog.ru/ansible-basic/)
 - [[Linux] Что показывает atop?](https://jtprog.ru/man-atop/)
 - [[Linux] Настройка systemd-resolved](https://jtprog.ru/systemd-resolved/)
 - [[Linux] Настраиваем systemd-timesyncd](https://jtprog.ru/systemd-timesyncd/)
-- [[GitLab] Установка GitLab Runner](https://jtprog.ru/install-gitlab-runner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
