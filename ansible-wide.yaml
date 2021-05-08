@@ -1,0 +1,23 @@
+---
+- name: CV
+  hosts: all
+  become: true
+  become_user: Michael Savin
+  strategy: mitogen_linear
+
+  vars:
+    remote_user: "jtprogru"
+    ansible_distribution: ["Ubuntu", "Debian", "RHEL", "CentOS"]
+    practice: ["DevOps", "IaC", "CI/CD", "DaC"]
+    instruments: ["Ansible", "SaltStack", "GitLab", "GitHub", "Bitrbucket", "Jira", "Trello", "Zabbix", "Prometheus", "Grafana", 
+                  "Confluence", "GiLab/GitHub Wiki", "Slite", "Notion", "Proxmox", "VMware", "Kubernetes", "Swarm"]
+    contacts:
+      site: "https://jtprog.ru"
+      telegram: "@jtprogru"
+      twitter: "@jtprogru"
+
+  roles:
+    - "{{ remote_user }}.infrastructure_engineer"
+    - "{{ remote_user }}.linux_administrator"
+    - "{{ remote_user }}.devops_engineer"
+

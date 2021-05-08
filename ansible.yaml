@@ -3,7 +3,7 @@
   hosts: all
   become: true
   become_user: Michael Savin
-  strategy: free
+  strategy: mitogen_linear
 
   vars:
     remote_user: "jtprogru"
@@ -13,13 +13,14 @@
       - configuration_managment: ["Ansible", "SaltStack"]
       - version_control: ["GitLab", "GitHub", "Bitrbucket"]
       - task_manager: ["Jira", "Trello"]
-      - monitoring: ["Zabbix", "Prometheus"]
-      - documentation: ["Confluence", "GiLab/GitHub Wiki"]
+      - monitoring: ["Zabbix", "Prometheus", "Grafana"]
+      - documentation: ["Confluence", "GiLab/GitHub Wiki", "Slite", "Notion"]
       - virtualisation: ["Proxmox", "VMware"]
-      - orchestrator: ["Swarm", "Kubernetes"]
+      - orchestrator: ["Kubernetes", "Swarm"]
     contacts:
       site: "https://jtprog.ru"
-      cv: "https://jtprog.ru/resume/"
+      cv_ru: "https://jtprog.ru/resume/"
+      cv_en: "https://jtprog.ru/resume-en/"
       email: "mail@jtprog.ru"
       telegram: "@jtprogru"
       twitter: "@jtprogru"
