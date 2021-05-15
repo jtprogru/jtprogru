@@ -46,11 +46,11 @@
 
 ### 📚 Latest Blog Posts (in Russian)
 <!-- BLOG-POST-LIST:START -->
+- [[Story] Как я вошёл в IT](https://jtprog.ru/my-it-way/)
 - [[Notes] Заметки на полях 2021.05.08](https://jtprog.ru/notes-20210508/)
 - [[DevOps] Github Actions для блогера](https://jtprog.ru/github-actions/)
 - [[Linux] Авторизация по ключу при подключении по SSH](https://jtprog.ru/ssh-keys/)
 - [[Work] Перенос сайта на хостинг с BitrixVM](https://jtprog.ru/bitrixvm-hosting/)
-- [[DevOps] Ansible – основы управления конфигурацией](https://jtprog.ru/ansible-basic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
