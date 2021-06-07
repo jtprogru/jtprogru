@@ -3,7 +3,6 @@
 
 ## I'm a Husband, Father and DevOps:
 - ☕️ I use Ansible for almost everything
-- 📖 I'm currently learning FastAPI
 - 🐍 Write on Python just for fun
 - 🍻 Fun fact: I love craft beer and collect beer coasters
 - 📋 My CV (in Russian) on my [site][rucv]
