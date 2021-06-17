@@ -15,6 +15,7 @@
 [<img align="left" width="26px" alt="Email" src="https://api.iconify.design/entypo:email.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][email]
 [<img align="left" width="26px" alt="Habr" src="https://api.iconify.design/simple-icons:habr.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][habr]
 [<img align="left" width="26px" alt="Dev.to" src="https://api.iconify.design/cib:dev-to.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />](https://dev.to/jtprog)
+[<img align="left" width="26px" alt="YouTube" src="https://api.iconify.design/simple-icons:youtube.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][youtube]
 
 <br />
 <br />
@@ -66,4 +67,5 @@
 [sysopschannel]: https://t.me/sysopschannel
 [email]: mailto:mail@jtprog.ru
 [habr]: https://habr.com/ru/users/jtprog/
+[youtube]: https://www.youtube.com/channel/UCuGKtGjbVk-BtpLM1I6Yzrg
 
