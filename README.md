@@ -1,7 +1,7 @@
 # Hi there, I'm Michael Savin - aka [jtprogru][website] 👋
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jtprogru)
 
-## I'm a Husband, Father and DevOps:
+## I'm a Husband, Father and SRE:
 - ☕️ I use Ansible for almost everything
 - 🐍 Write on Python just for fun
 - 🍻 Fun fact: I love craft beer and collect beer coasters
