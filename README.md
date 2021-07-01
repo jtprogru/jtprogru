@@ -5,7 +5,8 @@
 - ☕️ I use Ansible for almost everything
 - 🐍 Write on Python just for fun
 - 🍻 Fun fact: I love craft beer and collect beer coasters
-- 📋 My CV (in Russian) on my [site][rucv]
+- 📋 My public CV available on my personal [site][mycv]
+- 🎙 Create podcast "[VoiceOps][podcast]" about Development and Operations
 
 ### Connect with me:
 
@@ -59,13 +60,14 @@
 
 
 [bio]: https://jtprog.ru/about-me/
-[rucv]: https://jtprog.ru/resume/
+[mycv]: https://savinmi.ru
 [website]: https://jtprog.ru
 [twitter]: https://twitter.com/jtprogru
-[instagram]: https://instagram.com/jtprog
+[instagram]: https://instagram.com/jtprogru
 [telegram_chat]: https://t.me/sysopschat
 [sysopschannel]: https://t.me/sysopschannel
 [email]: mailto:mail@jtprog.ru
-[habr]: https://habr.com/ru/users/jtprog/
+[habr]: https://habr.com/ru/users/jtprogru/
 [youtube]: https://www.youtube.com/channel/UCuGKtGjbVk-BtpLM1I6Yzrg
+[podcast]: https://anchor.fm/jtprogru/
 
