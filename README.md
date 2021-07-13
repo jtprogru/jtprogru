@@ -47,11 +47,11 @@
 
 ### 📚 Latest Blog Posts (in Russian)
 <!-- BLOG-POST-LIST:START -->
+- [[Reboot] Ребрендинг и дезигн](https://jtprog.ru/rebranding-design/)
 - [[Work] Что стоит спрашивать на собеседовании](https://jtprog.ru/interview-questions/)
 - [[Story] Как я вошёл в IT](https://jtprog.ru/my-it-way/)
 - [[Notes] Заметки на полях 2021.05.08](https://jtprog.ru/notes-20210508/)
 - [[DevOps] Github Actions для блогера](https://jtprog.ru/github-actions/)
-- [[Linux] Авторизация по ключу при подключении по SSH](https://jtprog.ru/ssh-keys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
