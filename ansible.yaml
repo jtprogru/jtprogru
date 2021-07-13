@@ -2,31 +2,31 @@
 - name: CV
   hosts: all
   become: true
-  become_user: Michael Savin
+  become_user: "jtprogru"
   strategy: mitogen_linear
 
   vars:
-    remote_user: "jtprogru"
+    full_name: "Michael Savin"
     ansible_distribution: ["Ubuntu", "Debian", "RHEL", "CentOS"]
-    practice: ["DevOps", "IaC", "CI/CD", "DaC"]
+    practice: ["DevOps", "IaC", "CI/CD/CD", "DaC"]
+    ssh_public_key: https://github.com/jtprogru.keys
     instruments: 
       - configuration_managment: ["Ansible", "SaltStack"]
-      - version_control: ["GitLab", "GitHub", "Bitrbucket"]
+      - version_control: ["GitHub", "GitLab", "Bitrbucket"]
       - task_manager: ["Jira", "Trello"]
       - monitoring: ["Zabbix", "Prometheus", "Grafana"]
-      - documentation: ["Confluence", "GiLab/GitHub Wiki", "Slite", "Notion"]
+      - documentation: ["Confluence", "GiLab/GitHub Wiki", "Notion"]
       - virtualisation: ["Proxmox", "VMware"]
-      - orchestrator: ["Kubernetes", "Swarm"]
+      - containerisation: ["Docker", "LXC"]
     contacts:
       site: "https://jtprog.ru"
-      cv_ru: "https://jtprog.ru/resume/"
-      cv_en: "https://jtprog.ru/resume-en/"
+      cv_ru: "https://savinmi.ru/"
       email: "mail@jtprog.ru"
       telegram: "@jtprogru"
       twitter: "@jtprogru"
 
   roles:
-    - "{{ remote_user }}.infrastructure_engineer"
-    - "{{ remote_user }}.linux_administrator"
-    - "{{ remote_user }}.devops_engineer"
+    - "{{ become_user }}.infrastructure_engineer"
+    - "{{ become_user }}.linux_administrator"
+    - "{{ become_user }}.devops_engineer"
 

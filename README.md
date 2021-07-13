@@ -1,27 +1,24 @@
-# Hi there, I'm Michael Savin - aka [jtprogru][website] 👋
+# Привет, меня зову Михаил - aka [jtprogru][website] 👋
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jtprogru)
 
-## I'm a Husband, Father and SRE:
-- ☕️ I use Ansible for almost everything
-- 🐍 Write on Python just for fun
-- 🍻 Fun fact: I love craft beer and collect beer coasters
-- 📋 My public CV available on my personal [site][mycv]
-- 🎙 Create podcast "[VoiceOps][podcast]" about Development and Operations
+## Несколько фактов обо мне:
+- ☕️ Я автоматизирую свою работу с помощью Ansible;
+- 🐍 Пишу на Python просто ради развлечения;
+- 🍻 Люблю сидр и крафтовое пиво, а так же коллекционирую "подставочки под пивные кружки";
+- 📋 Мое резюме доступно [тут][mycv]
+- 🎙 Запустил подкаст "[VoiceOps][podcast]"
 
-### Connect with me:
+### Связаться со мной:
 
 [<img align="left" width="26px" alt="Telegram" src="https://api.iconify.design/ri:telegram-line.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][telegram_chat]
-[<img align="left" width="26px" alt="Blog" src="https://api.iconify.design/mdi:web.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][website]
 [<img align="left" width="26px" alt="Twitter" src="https://api.iconify.design/jam:twitter-square.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][twitter]
 [<img align="left" width="26px" alt="Email" src="https://api.iconify.design/entypo:email.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][email]
-[<img align="left" width="26px" alt="Habr" src="https://api.iconify.design/simple-icons:habr.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][habr]
-[<img align="left" width="26px" alt="Dev.to" src="https://api.iconify.design/cib:dev-to.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />](https://dev.to/jtprog)
-[<img align="left" width="26px" alt="YouTube" src="https://api.iconify.design/simple-icons:youtube.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][youtube]
+
 
 <br />
 <br />
 
-### Languages and Tools:
+### ЯПы и тулзы:
 
 <img align="left" alt="VIM" width="26px" src="https://api.iconify.design/cib:vim.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://api.iconify.design/cib:postgresql.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
@@ -45,7 +42,7 @@
 
 ---
 
-### 📚 Latest Blog Posts (in Russian)
+### 📚 Свежак из моего блога
 <!-- BLOG-POST-LIST:START -->
 - [[Reboot] Ребрендинг и дезигн](https://jtprog.ru/rebranding-design/)
 - [[Work] Что стоит спрашивать на собеседовании](https://jtprog.ru/interview-questions/)
