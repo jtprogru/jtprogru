@@ -45,11 +45,11 @@
 
 ### 📚 Свежак из моего блога
 <!-- BLOG-POST-LIST:START -->
+- [Задонатить!](https://jtprog.ru/donations/)
 - [[Opinion] Документация, Сухой поцелуй и джуны](https://jtprog.ru/rtfm-dry-kiss/)
 - [[Reboot] Ребрендинг и дезигн](https://jtprog.ru/rebranding-design/)
 - [[Work] Что стоит спрашивать на собеседовании](https://jtprog.ru/interview-questions/)
 - [[Story] Как я вошёл в IT](https://jtprog.ru/my-it-way/)
-- [[Notes] Заметки на полях 2021.05.08](https://jtprog.ru/notes-20210508/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
