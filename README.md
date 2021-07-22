@@ -45,11 +45,11 @@
 
 ### 📚 Свежак из моего блога
 <!-- BLOG-POST-LIST:START -->
+- [[Patreon] Как пройти собеседование](https://jtprog.ru/howto-pass-interview/)
 - [Задонатить!](https://jtprog.ru/donations/)
 - [[Opinion] Документация, Сухой поцелуй и джуны](https://jtprog.ru/rtfm-dry-kiss/)
 - [[Reboot] Ребрендинг и дезигн](https://jtprog.ru/rebranding-design/)
 - [[Work] Что стоит спрашивать на собеседовании](https://jtprog.ru/interview-questions/)
-- [[Story] Как я вошёл в IT](https://jtprog.ru/my-it-way/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
