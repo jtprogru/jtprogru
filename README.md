@@ -45,11 +45,11 @@
 
 ### 📚 Свежак из моего блога
 <!-- BLOG-POST-LIST:START -->
+- [[Work] Обновление Bitrix VA](https://jtprog.ru/upgrade-bitrix-va/)
 - [[Twitter] Сборник тредов из твиттера](https://jtprog.ru/twitter-index/)
 - [[Patreon] Как пройти собеседование](https://jtprog.ru/howto-pass-interview/)
 - [Задонатить!](https://jtprog.ru/donations/)
 - [[Opinion] Документация, Сухой поцелуй и джуны](https://jtprog.ru/rtfm-dry-kiss/)
-- [[Reboot] Ребрендинг и дезигн](https://jtprog.ru/rebranding-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
