@@ -1,5 +1,8 @@
 # Привет, меня зову Михаил - aka [jtprogru][website] 👋
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=jtprogru)
+[![Website](https://img.shields.io/website?label=blog&url=https%3A%2F%2Fjtprog.ru)](https://jtprog.ru)
+[![Website](https://img.shields.io/website?label=my%20cv&url=https%3A%2F%2Fsavinmi.ru)](https://savinmi.ru)
+[![Keybase PGP](https://img.shields.io/keybase/pgp/jtprog)](https://keybase.io/jtprog)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jtprogru?style=plastic)](https://twitter.com/jtprogru)
 
 ## Несколько фактов обо мне:
 - ☕️ Я автоматизирую свою работу с помощью Ansible
