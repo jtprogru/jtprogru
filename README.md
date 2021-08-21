@@ -45,17 +45,6 @@
 <br />
 
 ---
-
-### 📚 Свежак из моего блога
-<!-- BLOG-POST-LIST:START -->
-- [[Work] Обновление Bitrix VA](https://jtprog.ru/upgrade-bitrix-va/)
-- [[Twitter] Сборник тредов из твиттера](https://jtprog.ru/twitter-index/)
-- [[Patreon] Как пройти собеседование](https://jtprog.ru/howto-pass-interview/)
-- [Задонатить!](https://jtprog.ru/donations/)
-- [[Opinion] Документация, Сухой поцелуй и джуны](https://jtprog.ru/rtfm-dry-kiss/)
-<!-- BLOG-POST-LIST:END -->
-
----
 ![jtprogru's Github Stats](https://github-readme-stats.vercel.app/api?username=jtprogru&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtprogru&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
