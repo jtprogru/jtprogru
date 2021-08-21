@@ -4,7 +4,8 @@
 [![Keybase PGP](https://img.shields.io/keybase/pgp/jtprog)](https://keybase.io/jtprog)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jtprogru?style=plastic)](https://twitter.com/jtprogru)
 
-## Несколько фактов обо мне:
+## Несколько фактов обо мне
+
 - ☕️ Я автоматизирую свою работу с помощью Ansible
 - 🐍 Пишу на Python просто ради развлечения
 - 🍻 Люблю сидр и крафтовое пиво, а так же коллекционирую "подставочки под пивные кружки"
@@ -12,17 +13,16 @@
 - 🎙 Запустил подкаст "[VoiceOps][podcast]"
 - 🦄 Не стесняюсь делиться знаниями
 
-### Связаться со мной:
+### Связаться со мной
 
 [<img align="left" width="26px" alt="Telegram" src="https://api.iconify.design/ri:telegram-line.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][telegram_chat]
 [<img align="left" width="26px" alt="Twitter" src="https://api.iconify.design/jam:twitter-square.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][twitter]
 [<img align="left" width="26px" alt="Email" src="https://api.iconify.design/entypo:email.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][email]
 
-
 <br />
 <br />
 
-### ЯПы и тулзы:
+### ЯПы и тулзы
 
 <img align="left" alt="VIM" width="26px" src="https://api.iconify.design/cib:vim.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://api.iconify.design/cib:postgresql.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
@@ -42,12 +42,13 @@
 <img align="left" alt="Nginx" width="26px" src="https://api.iconify.design/cib:nginx.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 
 <br />
-<br />
 
 ---
-![jtprogru's Github Stats](https://github-readme-stats.vercel.app/api?username=jtprogru&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtprogru&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
+<!-- If you're using "master" as default branch -->
+![Metrics](https://metrics.lecoq.io/jtprogru?template=classic&repositories.forks=true&languages=1&repositories=1&lines=1&achievements=1&gists=1&people=1&introduction=1&repositories=100&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&repositories.featured=jtprogru%2Ftodoister&config.timezone=Europe%2FMoscow)
+
+---
 
 [bio]: https://jtprog.ru/about-me/
 [mycv]: https://savinmi.ru
@@ -60,4 +61,3 @@
 [habr]: https://habr.com/ru/users/jtprogru/
 [youtube]: https://www.youtube.com/channel/UCuGKtGjbVk-BtpLM1I6Yzrg
 [podcast]: https://anchor.fm/jtprogru/
-
