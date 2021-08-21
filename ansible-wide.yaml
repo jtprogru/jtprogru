@@ -7,11 +7,14 @@
     full_name: "Michael Savin"
     ansible_distribution: ["Ubuntu", "Debian", "RHEL", "CentOS"]
     practice: ["DevOps", "IaC", "CI/CD/CD", "DaC"]
-    ssh_public_key: https://github.com/jtprogru.keys
-    instruments: ["Ansible", "SaltStack", "GitHub", "GitLab", "Bitrbucket", "Jira", "Trello", "Zabbix", "Prometheus", "Grafana",
-                  "Confluence", "GiLab/GitHub Wiki", "Notion", "Proxmox", "VMware", "Docker", "LXC"]
+    ssh_public_key: "https://github.com/jtprogru.keys"
+    instruments: ["Ansible", "SaltStack", "GitHub", "GitLab", "Bitrbucket", "Jira", "Zabbix", "Prometheus", "Grafana",
+                  "Confluence", "GiLab/GitHub Wiki", "Notion", "Proxmox", "VMware", "Docker", "DigitalOcean"]
     contacts:
-      cv_ru: "https://savinmi.ru/"
+      keybase: "https://keybase.io/jtprog"
+      gpg_key: "172103F339C1FCB4"
+      full_ru_cv: "https://savinmi.ru/"
+      blog: "https://jtprog.ru/"
       telegram: "@jtprogru"
 
   roles:

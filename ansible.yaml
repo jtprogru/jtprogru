@@ -3,7 +3,6 @@
   hosts: all
   become: true
   become_user: "jtprogru"
-  strategy: mitogen_linear
 
   vars:
     full_name: "Michael Savin"
@@ -19,8 +18,8 @@
       - virtualisation: ["Proxmox", "VMware"]
       - containerisation: ["Docker", "LXC"]
     contacts:
-      site: "https://jtprog.ru"
-      cv_ru: "https://savinmi.ru/"
+      blog: "https://jtprog.ru"
+      full_ru_cv: "https://savinmi.ru/"
       email: "mail@jtprog.ru"
       telegram: "@jtprogru"
       twitter: "@jtprogru"
