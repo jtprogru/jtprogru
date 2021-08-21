@@ -45,6 +45,5 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
-          plugin_repositories_featured: jtprogru/todoister
           plugin_repositories_forks: yes
           repositories_forks: yes

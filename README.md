@@ -46,7 +46,7 @@
 ---
 
 <!-- If you're using "master" as default branch -->
-![Metrics](https://metrics.lecoq.io/jtprogru?template=classic&repositories.forks=true&languages=1&repositories=1&lines=1&achievements=1&gists=1&people=1&introduction=1&repositories=100&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&repositories.featured=jtprogru%2Ftodoister&config.timezone=Europe%2FMoscow)
+![Metrics](https://metrics.lecoq.io/jtprogru?template=classic&repositories.forks=true&languages=1&repositories=1&lines=1&achievements=1&gists=1&people=1&introduction=1&repositories=100&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FMoscow)
 
 ---
 
