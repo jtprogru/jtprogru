@@ -10,7 +10,7 @@
 - 🐍 Пишу на Python просто ради развлечения
 - 🍻 Люблю сидр и крафтовое пиво, а так же коллекционирую "подставочки под пивные кружки"
 - 📋 Мое резюме доступно [тут][mycv]
-- 🎙 Запустил подкаст "[VoiceOps][podcast]"
+- 🎙  Запустил подкаст "[VoiceOps][podcast]"
 - 🦄 Не стесняюсь делиться знаниями
 
 ### Связаться со мной
@@ -31,8 +31,7 @@
 <img align="left" alt="Git" width="26px" src="https://api.iconify.design/fa-brands:git-square.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 <img align="left" alt="GitHub" width="26px" src="https://api.iconify.design/codicon:github.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 <img align="left" alt="Ubuntu" width="26px" src="https://api.iconify.design/simple-icons:ubuntu.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
-<img align="left" alt="CenOS" width="26px" src="https://api.iconify.design/fa-brands:centos.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
-<img align="left" alt="Kubernetes" width="26px" src="https://api.iconify.design/simple-icons:kubernetes.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="CentOS" width="26px" src="https://api.iconify.design/fa-brands:centos.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 <img align="left" alt="JIRA" width="26px" src="https://api.iconify.design/simple-icons:jira.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 <img align="left" alt="GitLab" width="26px" src="https://api.iconify.design/cib:gitlab.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
 <img align="left" alt="Prometheus" width="26px" src="https://api.iconify.design/simple-icons:prometheus.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
