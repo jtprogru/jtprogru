@@ -3,41 +3,17 @@
 [![Website](https://img.shields.io/website?label=my%20cv&url=https%3A%2F%2Fsavinmi.ru)](https://savinmi.ru)
 [![Keybase PGP](https://img.shields.io/keybase/pgp/jtprog)](https://keybase.io/jtprog)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jtprogru?style=plastic)](https://twitter.com/jtprogru)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jtprogru/current)
+[![Chat](https://img.shields.io/badge/chat-%40jtprogru__chat-blue)](https://t.me/jtprogru_chat)
+[![Channel](https://img.shields.io/badge/channel-%40jtprogru__channel-blue)](https://t.me/jtprogru_channel)
 
 ## Несколько фактов обо мне
 
-- ☕️ Я автоматизирую свою работу с помощью Ansible или Python
-- 🐍 Пишу на Python просто ради развлечения (но очень мало)
-- 🍻 Люблю сидр и стаут, коллекционирую бирдекели
-- 📋 Мое резюме доступно [тут][mycv]
-- 🦄 Не стесняюсь делиться опытом и своими поделками
-
-### Связаться со мной
-
-[<img align="left" width="26px" alt="Telegram" src="https://api.iconify.design/ri:telegram-line.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][telegram_chat]
-[<img align="left" width="26px" alt="Twitter" src="https://api.iconify.design/jam:twitter-square.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][twitter]
-[<img align="left" width="26px" alt="Email" src="https://api.iconify.design/entypo:email.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />][email]
-
-<br />
-<br />
-
-### ЯПы и тулзы
-
-<img align="left" alt="VIM" width="26px" src="https://api.iconify.design/cib:vim.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://api.iconify.design/cib:postgresql.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
-<img align="left" alt="MySQL" width="26px" src="https://api.iconify.design/whh:mysqltwo.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
-<img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/cib:mongodb.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
-<img align="left" alt="Git" width="26px" src="https://api.iconify.design/fa-brands:git-square.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
-<img align="left" alt="GitHub" width="26px" src="https://api.iconify.design/codicon:github.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
-<img align="left" alt="Ubuntu" width="26px" src="https://api.iconify.design/simple-icons:ubuntu.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
-<img align="left" alt="CentOS" width="26px" src="https://api.iconify.design/fa-brands:centos.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
-<img align="left" alt="JIRA" width="26px" src="https://api.iconify.design/simple-icons:jira.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
-<img align="left" alt="GitLab" width="26px" src="https://api.iconify.design/cib:gitlab.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
-<img align="left" alt="Prometheus" width="26px" src="https://api.iconify.design/simple-icons:prometheus.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
-<img align="left" alt="Ansible" width="26px" src="https://api.iconify.design/simple-icons:ansible.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
-<img align="left" alt="Python" width="26px" src="https://api.iconify.design/cib:python.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
-<img align="left" alt="YAML" width="26px" src="https://api.iconify.design/file-icons:yaml-alt4.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
-<img align="left" alt="Nginx" width="26px" src="https://api.iconify.design/cib:nginx.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+- ☕️ Если что-то надо сделать более чем 2-3 раза, то я это стараюсь автоматизировать
+- 🐍 Пишу на Python или Golang
+- 🍻 Коллекционирую бирдекели, но при этом не пью
+- 📋 Мое актуальное резюме доступно [тут][mycv]
+- 🦄 Всегда готов учиться новому и делиться знаниями
 
 <br />
 
