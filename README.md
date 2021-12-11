@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/website?label=my%20blog&url=https%3A%2F%2Fjtprog.ru)](https://jtprog.ru)
 [![Website](https://img.shields.io/website?label=my%20cv&url=https%3A%2F%2Fsavinmi.ru)](https://savinmi.ru)
 [![Keybase PGP](https://img.shields.io/keybase/pgp/jtprog)](https://keybase.io/jtprog)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jtprogru?style=plastic)](https://twitter.com/jtprogru)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jtprogru?style=plastic&color=blue)](https://twitter.com/jtprogru)
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jtprogru/current)
 [![Chat](https://img.shields.io/badge/chat-%40jtprogru__chat-blue)](https://t.me/jtprogru_chat)
 [![Channel](https://img.shields.io/badge/channel-%40jtprogru__channel-blue)](https://t.me/jtprogru_channel)
