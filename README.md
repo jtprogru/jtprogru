@@ -20,11 +20,17 @@
 
 ---
 
-![Michael Savin GitHub stats](https://github-readme-stats.vercel.app/api?username=jtprogru&show_icons=true&theme=onedark)
+![Michael Savin GitHub stats](https://github.com/jtprogru/github-stats/blob/master/generated/overview.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtprogru&layout=compact&hide=pug,javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+![Michael Savin GitHub stats](https://github.com/jtprogru/github-stats/blob/master/generated/languages.svg)
 
----
+<!-- --- -->
+
+<!-- ![Michael Savin GitHub stats](https://github-readme-stats.vercel.app/api?username=jtprogru&show_icons=true&theme=onedark) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtprogru&layout=compact&hide=pug,javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- --- -->
 
 [bio]: https://jtprog.ru/about-me/
 [mycv]: https://savinmi.ru
