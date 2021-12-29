@@ -25,7 +25,10 @@
       twitter: "@jtprogru"
 
   roles:
+    - "{{ become_user }}.sre"
     - "{{ become_user }}.infrastructure_engineer"
     - "{{ become_user }}.linux_administrator"
     - "{{ become_user }}.devops_engineer"
+    - "{{ become_user }}.python_dev"
+    - "{{ become_user }}.golang_dev"
 
