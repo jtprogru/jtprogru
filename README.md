@@ -10,11 +10,12 @@
 
 ## Несколько фактов обо мне
 
-- ☕️ Если что-то надо сделать более чем 2-3 раза, то я это стараюсь автоматизировать
-- 🐍 Пишу на Python или Golang
-- 🍻 Коллекционирую бирдекели, но при этом не пью
+- ☕️ Если что-то надо сделать более чем 3 раза, то я это стараюсь автоматизировать
+- 🐍 Пишу на Python и Golang
+- 🍻 Коллекционирую бирдекели и крыжечки от пивных бутылок, но при этом почти не пью
 - 📋 Мое актуальное резюме доступно [тут][mycv]
 - 🦄 Всегда готов учиться новому и делиться знаниями
+- 🤖 Люблю opensource и стараюсь делиться своими наработками
 
 <br />
 
@@ -23,13 +24,6 @@
 ![Michael Savin GitHub stats](https://github.com/jtprogru/github-stats/blob/master/generated/overview.svg)
 ![Michael Savin GitHub stats](https://github.com/jtprogru/github-stats/blob/master/generated/languages.svg)
 
-<!-- --- -->
-
-<!-- ![Michael Savin GitHub stats](https://github-readme-stats.vercel.app/api?username=jtprogru&show_icons=true&theme=onedark) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtprogru&layout=compact&hide=pug,javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- --- -->
 
 [bio]: https://jtprog.ru/about-me/
 [mycv]: https://savinmi.ru
