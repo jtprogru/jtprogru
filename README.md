@@ -6,7 +6,6 @@
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jtprogru/current)
 [![Chat](https://img.shields.io/badge/chat-%40jtprogru__chat-blue)](https://t.me/jtprogru_chat)
 [![Channel](https://img.shields.io/badge/channel-%40jtprogru__channel-blue)](https://t.me/jtprogru_channel)
-[![Views](https://gpvc.arturio.dev/jtprogru?style=for-the-badge)](https://github.com/jtprogru)
 
 ## Несколько фактов обо мне
 
