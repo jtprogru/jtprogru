@@ -1,4 +1,4 @@
-# Привет, меня зову Михаил - aka [jtprogru][website] 👋
+# Привет, меня зовут Михаил - aka [jtprogru][website] 👋
 [![Website](https://img.shields.io/website?label=my%20blog&url=https%3A%2F%2Fjtprog.ru)](https://jtprog.ru)
 [![Website](https://img.shields.io/website?label=my%20cv&url=https%3A%2F%2Fsavinmi.ru)](https://savinmi.ru)
 [![Website](https://img.shields.io/website?label=my%20org&url=https%3A%2F%2Fbearonserver.ru)](https://bearonserver.ru)
