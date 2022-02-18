@@ -24,10 +24,10 @@
 ![Michael Savin GitHub stats](https://github.com/jtprogru/github-stats/blob/master/generated/overview.svg)
 ![Michael Savin GitHub stats](https://github.com/jtprogru/github-stats/blob/master/generated/languages.svg)
 
-
 [bio]: https://jtprog.ru/about-me/
 [mycv]: https://savinmi.ru
 [website]: https://jtprog.ru
+[myorg]: https://bearonserver.ru
 [twitter]: https://twitter.com/jtprogru
 [instagram]: https://instagram.com/jtprogru
 [telegram_chat]: https://t.me/jtprogru_chat
@@ -36,3 +36,4 @@
 [habr]: https://habr.com/ru/users/jtprogru/
 [youtube]: https://www.youtube.com/channel/UCuGKtGjbVk-BtpLM1I6Yzrg
 [podcast]: https://anchor.fm/jtprogru/
+
