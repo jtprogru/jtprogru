@@ -1,21 +1,22 @@
-# Привет, меня зовут Михаил - aka [jtprogru][website] 👋
-[![Website](https://img.shields.io/website?label=my%20blog&url=https%3A%2F%2Fjtprog.ru)](https://jtprog.ru)
-[![Website](https://img.shields.io/website?label=my%20cv&url=https%3A%2F%2Fsavinmi.ru)](https://savinmi.ru)
-[![Website](https://img.shields.io/website?label=my%20org&url=https%3A%2F%2Fbearonserver.ru)](https://bearonserver.ru)
+# Hi! My name is Michael - aka [@jtprogru][myblog] 👋
+
+[![Website](https://img.shields.io/website?label=my%20blog&url=https%3A%2F%2Fjtprog.ru)][myblog]
+[![Website](https://img.shields.io/website?label=my%20cv&url=https%3A%2F%2Fsavinmi.ru)][mycv]
+[![Website](https://img.shields.io/website?label=my%20org&url=https%3A%2F%2Fbearonserver.ru)][myorg]
 [![Keybase PGP](https://img.shields.io/keybase/pgp/jtprog)](https://keybase.io/jtprog)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jtprogru?color=blue&label=%40jtprogru)](https://twitter.com/jtprogru)
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jtprogru/current)
-[![Chat](https://img.shields.io/badge/TG%20chat-%40jtprogru__chat-blue)](https://t.me/jtprogru_chat)
-[![Channel](https://img.shields.io/badge/TG%20channel-%40jtprogru__channel-blue)](https://t.me/jtprogru_channel)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jtprogru?color=blue&label=%40jtprogru)][twitter]
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jtprogru/my-stack)
+[![Chat](https://img.shields.io/badge/TG%20chat-%40jtprogru__chat-blue)][tg_chat]
+[![Channel](https://img.shields.io/badge/TG%20channel-%40jtprogru__channel-blue)][tg_channel]
 
-## Несколько фактов обо мне
+## A few facts about me
 
-- ☕️ Если что-то надо сделать более чем 3 раза, то я это стараюсь автоматизировать
-- 🐍 Пишу на Python и Golang
-- 🍻 Коллекционирую бирдекели и крыжечки от пивных бутылок, но при этом почти не пью
-- 📋 Мое актуальное резюме доступно [тут][mycv]
-- 🦄 Всегда готов учиться новому и делиться знаниями
-- 🤖 Люблю opensource и стараюсь делиться своими наработками
+- ☕️ If something needs to be done more than 3 times, then I try to automate it;
+- 🐍 I write on Python and Golang;
+- 🍻 I collect birdekels and caps from beer bottles, but I don't drink at the same time;
+- 📋 My current resume is available [here][mycv] on RU;
+- 🦄 Always ready to learn new things and share knowledge;
+- 🤖 I love open source and try to share my best practices;
 
 <br />
 
@@ -26,12 +27,12 @@
 
 [bio]: https://jtprog.ru/about-me/
 [mycv]: https://savinmi.ru
-[website]: https://jtprog.ru
+[myblog]: https://jtprog.ru
 [myorg]: https://bearonserver.ru
 [twitter]: https://twitter.com/jtprogru
 [instagram]: https://instagram.com/jtprogru
-[telegram_chat]: https://t.me/jtprogru_chat
-[sysopschannel]: https://t.me/jtprogru_channel
+[tg_chat]: https://t.me/jtprogru_chat
+[tg_channel]: https://t.me/jtprogru_channel
 [email]: mailto:mail@jtprog.ru
 [habr]: https://habr.com/ru/users/jtprogru/
 [youtube]: https://www.youtube.com/channel/UCuGKtGjbVk-BtpLM1I6Yzrg
