@@ -3,18 +3,18 @@
 [![Website](https://img.shields.io/website?label=my%20blog&url=https%3A%2F%2Fjtprog.ru)][myblog]
 [![Website](https://img.shields.io/website?label=my%20cv&url=https%3A%2F%2Fsavinmi.ru)][mycv]
 [![Website](https://img.shields.io/website?label=my%20org&url=https%3A%2F%2Fbearonserver.ru)][myorg]
-[![Keybase PGP](https://img.shields.io/keybase/pgp/jtprog)](https://keybase.io/jtprog)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jtprogru?color=blue&label=%40jtprogru)][twitter]
+[![Keybase PGP](https://badgen.net/keybase/pgp/jtprog)](https://keybase.io/jtprog)
+[![Twitter Follow](https://badgen.net/twitter/follow/jtprogru)][twitter]
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jtprogru/my-stack)
-[![Chat](https://img.shields.io/badge/TG%20chat-%40jtprogru__chat-blue)][tg_chat]
-[![Channel](https://img.shields.io/badge/TG%20channel-%40jtprogru__channel-blue)][tg_channel]
+[![Chat](https://badgen.net/badge/icon/%40jtprogru_chat?icon=telegram&label)][tg_chat]
+[![Channel](https://badgen.net/badge/icon/%40jtprogru_channel?icon=telegram&label)][tg_channel]
 
 ## A few facts about me
 
 - ☕️ If something needs to be done more than 3 times, then I try to automate it;
 - 🐍 I write on Python and Golang;
 - 🍻 I collect birdekels and caps from beer bottles, but I don't drink at the same time;
-- 📋 My current resume is available [here][mycv] on RU;
+- 📋 My current CV is available [here][mycv] on RU;
 - 🦄 Always ready to learn new things and share knowledge;
 - 🤖 I love open source and try to share my best practices;
 
