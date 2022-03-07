@@ -1,11 +1,11 @@
-# Hi! My name is Michael - aka [@jtprogru][myblog] 👋
+# Hi! My name is Michael - aka [@jtprogru][mygh] 👋
 
 [![Website](https://img.shields.io/website?label=my%20blog&url=https%3A%2F%2Fjtprog.ru)][myblog]
 [![Website](https://img.shields.io/website?label=my%20cv&url=https%3A%2F%2Fsavinmi.ru)][mycv]
 [![Website](https://img.shields.io/website?label=my%20org&url=https%3A%2F%2Fbearonserver.ru)][myorg]
-[![Keybase PGP](https://badgen.net/keybase/pgp/jtprog)](https://keybase.io/jtprog)
+[![Keybase PGP](https://badgen.net/keybase/pgp/jtprog)][keybase]
 [![Twitter Follow](https://badgen.net/twitter/follow/jtprogru)][twitter]
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jtprogru/my-stack)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)][stack]
 [![Chat](https://badgen.net/badge/icon/%40jtprogru_chat?icon=telegram&label)][tg_chat]
 [![Channel](https://badgen.net/badge/icon/%40jtprogru_channel?icon=telegram&label)][tg_channel]
 
@@ -29,6 +29,7 @@
 [mycv]: https://savinmi.ru
 [myblog]: https://jtprog.ru
 [myorg]: https://bearonserver.ru
+[mygh]: https://github.com/jtprogru
 [twitter]: https://twitter.com/jtprogru
 [instagram]: https://instagram.com/jtprogru
 [tg_chat]: https://t.me/jtprogru_chat
@@ -37,4 +38,6 @@
 [habr]: https://habr.com/ru/users/jtprogru/
 [youtube]: https://www.youtube.com/channel/UCuGKtGjbVk-BtpLM1I6Yzrg
 [podcast]: https://anchor.fm/jtprogru/
+[keybase]: https://keybase.io/jtprog
+[stack]: https://stackshare.io/jtprogru/my-stack
 
