@@ -1,8 +1,6 @@
 # Hi! My name is Michael - aka [@jtprogru][mygh] 👋
 
-[![Blog](https://badgen.net/uptime-robot/status/m786673483-2ba02b030974c83543f8cb8d)][myblog]
-[![Ru CV](https://badgen.net/uptime-robot/status/m789066456-b53aba2e39f06e8d1d062af9)][mycv]
-[![Org](https://badgen.net/uptime-robot/status/m790850129-ad60e20e37247dc4c069a9c0)][myorg]
+
 [![Keybase PGP](https://badgen.net/keybase/pgp/jtprog)][keybase]
 [![Twitter Follow](https://badgen.net/twitter/follow/jtprogru)][twitter]
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)][stack]
@@ -23,6 +21,12 @@
 If you are looking for an SRE, Infrastructure Engineer or Cloud Engineer,
 you can write to me in Telegram `@jtprogru` or by Email `mailt[at]jtprog[dot]ru`.
 I want an Enterprise experience with the GitHub ecosystem.
+
+## My WWW
+
+- Blog (RU) - [![Blog](https://badgen.net/uptime-robot/status/m786673483-2ba02b030974c83543f8cb8d)][myblog]
+- CV (RU) - [![Ru CV](https://badgen.net/uptime-robot/status/m789066456-b53aba2e39f06e8d1d062af9)][mycv]
+- Consulting (RU) - [![Org](https://badgen.net/uptime-robot/status/m790850129-ad60e20e37247dc4c069a9c0)][myorg]
 
 <br />
 
