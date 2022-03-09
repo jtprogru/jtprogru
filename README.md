@@ -1,8 +1,8 @@
 # Hi! My name is Michael - aka [@jtprogru][mygh] 👋
 
-[![Website](https://img.shields.io/website?label=my%20blog&url=https%3A%2F%2Fjtprog.ru)][myblog]
-[![Website](https://img.shields.io/website?label=my%20cv&url=https%3A%2F%2Fsavinmi.ru)][mycv]
-[![Website](https://img.shields.io/website?label=my%20org&url=https%3A%2F%2Fbearonserver.ru)][myorg]
+[![Blog](https://badgen.net/uptime-robot/status/m786673483-2ba02b030974c83543f8cb8d)][myblog]
+[![Ru CV](https://badgen.net/uptime-robot/status/m789066456-b53aba2e39f06e8d1d062af9)][mycv]
+[![Org](https://badgen.net/uptime-robot/status/m790850129-ad60e20e37247dc4c069a9c0)][myorg]
 [![Keybase PGP](https://badgen.net/keybase/pgp/jtprog)][keybase]
 [![Twitter Follow](https://badgen.net/twitter/follow/jtprogru)][twitter]
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)][stack]
@@ -14,9 +14,15 @@
 - ☕️ If something needs to be done more than 3 times, then I try to automate it;
 - 🐍 I write on Python and Golang;
 - 🍻 I collect birdekels and caps from beer bottles, but I don't drink at the same time;
-- 📋 My current CV is available [here][mycv] on RU;
+- 📋 My current CV is available [here][mycv] on RU (in EN will be available later);
 - 🦄 Always ready to learn new things and share knowledge;
 - 🤖 I love open source and try to share my best practices;
+
+## Contact
+
+If you are looking for an SRE, Infrastructure Engineer or Cloud Engineer,
+you can write to me in Telegram `@jtprogru` or by Email `mailt[at]jtprog[dot]ru`.
+I want an Enterprise experience with the GitHub ecosystem.
 
 <br />
 
@@ -32,6 +38,7 @@
 [mygh]: https://github.com/jtprogru
 [twitter]: https://twitter.com/jtprogru
 [instagram]: https://instagram.com/jtprogru
+[tg_pm]: https://t.me/jtprogru
 [tg_chat]: https://t.me/jtprogru_chat
 [tg_channel]: https://t.me/jtprogru_channel
 [email]: mailto:mail@jtprog.ru
