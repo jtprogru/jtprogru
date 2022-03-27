@@ -25,7 +25,8 @@ I want an Enterprise experience with the GitHub ecosystem.
 ## My WWW
 
 - Blog (RU) - [![Blog](https://badgen.net/uptime-robot/status/m786673483-2ba02b030974c83543f8cb8d)][myblog]
-- CV (RU) - [![Ru CV](https://badgen.net/uptime-robot/status/m789066456-b53aba2e39f06e8d1d062af9)][mycv]
+- CV (RU) - [![Ru CV](https://badgen.net/uptime-robot/status/m789066456-b53aba2e39f06e8d1d062af9)][myrucv]
+- CV (EN) - [![Ru CV](https://badgen.net/uptime-robot/status/m791156132-a8f493c18ffe412941cbaf29)][myencv]
 - Consulting (RU) - [![Org](https://badgen.net/uptime-robot/status/m790850129-ad60e20e37247dc4c069a9c0)][myorg]
 
 <br />
