@@ -12,7 +12,7 @@
 - ☕️ If something needs to be done more than 3 times, then I try to automate it;
 - 🐍 I write on Python and Golang;
 - 🍻 I collect birdekels and caps from beer bottles, but I don't drink at the same time;
-- 📋 My current CV is available [here][mycv] on RU (in EN will be available later);
+- 📋 My current CV is available on RU is [here][myrucv] and on EN available is [here][myencv];
 - 🦄 Always ready to learn new things and share knowledge;
 - 🤖 I love open source and try to share my best practices;
 
@@ -36,7 +36,8 @@ I want an Enterprise experience with the GitHub ecosystem.
 ![Michael Savin GitHub stats](https://github.com/jtprogru/github-stats/blob/master/generated/languages.svg)
 
 [bio]: https://jtprog.ru/about-me/
-[mycv]: https://savinmi.ru
+[myrucv]: https://savinmi.ru
+[myencv]: https://s11l.me
 [myblog]: https://jtprog.ru
 [myorg]: https://bearonserver.ru
 [mygh]: https://github.com/jtprogru
