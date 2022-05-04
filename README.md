@@ -19,7 +19,7 @@
 ## Contact
 
 If you are looking for an SRE, Infrastructure Engineer or Cloud Engineer,
-you can write to me in Telegram `@jtprogru` or by Email `mailt[at]jtprog[dot]ru`.
+you can write to me in Telegram `@jtprogru` or by Email `mail[at]jtprog[dot]ru`.
 I want an Enterprise experience with the GitHub ecosystem.
 
 ## My WWW
