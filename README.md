@@ -32,7 +32,7 @@ I want an Enterprise experience with the GitHub ecosystem.
 <br />
 
 Actual statistic for my TG channel 
-<img src="https://tgstat.ru/channel/@jtprogru_channel/stat-widget.png" />
+<img src="https://tgstat.ru/channel/@jtprogru_chat/stat-widget.png" />
 
 
 ---
