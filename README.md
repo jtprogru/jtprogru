@@ -31,6 +31,10 @@ I want an Enterprise experience with the GitHub ecosystem.
 
 <br />
 
+Actual statistic for my TG channel 
+<img src="//tgstat.ru/channel/@jtprogru_channel/stat-widget.png" />
+
+
 ---
 
 ![Michael Savin GitHub stats](https://github.com/jtprogru/github-stats/blob/master/generated/overview.svg)
@@ -45,8 +49,8 @@ I want an Enterprise experience with the GitHub ecosystem.
 [twitter]: https://twitter.com/jtprogru
 [instagram]: https://instagram.com/jtprogru
 [tg_pm]: https://t.me/jtprogru
-[tg_chat]: https://t.me/jtprogru_chat
-[tg_channel]: https://t.me/jtprogru_channel
+[tg_chat]: https://ttttt.me/jtprogru_chat
+[tg_channel]: https://ttttt.me/jtprogru_channel
 [email]: mailto:mail@jtprog.ru
 [habr]: https://habr.com/ru/users/jtprogru/
 [youtube]: https://www.youtube.com/channel/UCuGKtGjbVk-BtpLM1I6Yzrg
