@@ -31,10 +31,6 @@ I want an Enterprise experience with the GitHub ecosystem.
 
 <br />
 
-Actual statistic for my TG channel 
-<img src="https://tgstat.ru/channel/@jtprogru_chat/stat-widget.png" />
-
-
 ---
 
 ![Michael Savin GitHub stats](https://github.com/jtprogru/github-stats/blob/master/generated/overview.svg)
