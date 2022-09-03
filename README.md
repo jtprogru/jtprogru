@@ -1,11 +1,10 @@
 # Hi! My name is Michael - aka [@jtprogru][mygh] 👋
 
 
-[![Keybase PGP](https://badgen.net/keybase/pgp/jtprog)][keybase]
-[![Twitter Follow](https://badgen.net/twitter/follow/jtprogru)][twitter]
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)][stack]
-[![Chat](https://badgen.net/badge/icon/%40jtprogru_chat?icon=telegram&label)][tg_chat]
-[![Channel](https://badgen.net/badge/icon/%40jtprogru_channel?icon=telegram&label)][tg_channel]
+[![Keybase PGP](https://badgen.net/keybase/pgp/jtprog?icon=keybase)][keybase]
+[![Twitter Follow](https://badgen.net/twitter/follow/jtprogru?icon=twitter)][twitter]
+[![Chat](https://badgen.net/badge/icon/%40jtprogru_chat?icon=telegram&label=TG)][tg_chat]
+[![Channel](https://badgen.net/badge/icon/%40jtprogru_channel?icon=telegram&label=TG)][tg_channel]
 
 ## A few facts about me
 
