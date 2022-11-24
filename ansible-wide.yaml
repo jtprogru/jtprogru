@@ -9,19 +9,24 @@
     ansible_distribution: ["Ubuntu", "Debian", "RHEL", "CentOS"]
     practice: ["DevOps", "IaC", "CI/CD/CD", "DaC"]
     ssh_public_key: "https://github.com/jtprogru.keys"
-    instruments: ["Ansible", "SaltStack", "GitHub", "GitLab", "Bitrbucket", "Jira", "Zabbix", "Prometheus", "Grafana",
-                  "Confluence", "GiLab/GitHub Wiki", "Notion", "Proxmox", "VMware", "Docker", "DigitalOcean"]
+    instruments: ["Ansible", "GitHub/GitLab", "Zabbix", "Prometheus", "Grafana",
+                  "Terraform", "Docker", "Yandex.Cloud", "DigitalOcean"]
     contacts:
       keybase: "https://keybase.io/jtprog"
       gpg_key: "172103F339C1FCB4"
       full_ru_cv: "https://savinmi.ru/"
+      full_en_cv: "https://s11.me/"
       blog: "https://jtprog.ru/"
       telegram: "@jtprogru"
+      twitter: "@jtprogru"
 
   roles:
+    - "{{ become_user }}.infrastructure_consulting"
+    - "{{ become_user }}.oss_geek"
     - "{{ become_user }}.sre"
     - "{{ become_user }}.infrastructure_engineer"
     - "{{ become_user }}.linux_administrator"
     - "{{ become_user }}.devops_engineer"
     - "{{ become_user }}.python_dev"
     - "{{ become_user }}.golang_dev"
+
