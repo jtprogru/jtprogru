@@ -7,16 +7,16 @@
   vars:
     full_name: "Michael Savin"
     ansible_distribution: ["Ubuntu", "Debian", "RHEL", "CentOS"]
-    practice: ["DevOps", "IaC", "CI/CD/CD", "DaC"]
+    practice: ["SRE", "DevOps", "IaC", "CI/CD", "DaC"]
     ssh_public_key: "https://github.com/jtprogru.keys"
     instruments:
-      - configuration_managment: ["Ansible", "SaltStack"]
-      - version_control: ["GitHub", "GitLab"]
-      - task_manager: ["Issues", "Jira", "Trello"]
-      - monitoring: ["Zabbix", "Prometheus", "Grafana"]
-      - documentation: ["Confluence", "GiLab/GitHub Wiki", "Notion"]
-      - virtualisation: ["Proxmox", "VMware"]
-      - containerisation: ["Docker", "LXC"]
+      - {type: "configuration_managment", stack: ["Ansible", "SaltStack"]}
+      - {type: "version_control", stack: ["GitHub", "GitLab", "Bitrbucket"]}
+      - {type: "task_manager", stack: ["Issues", "Jira", "Trello"]}
+      - {type: "monitoring", stack: ["Prometheus", "Zabbix", "Grafana"]}
+      - {type: "documentation", stack: ["Confluence", "GiLab/GitHub Wiki", "Notion"]}
+      - {type: "virtualisation", stack: ["Proxmox", "VMware"]}
+      - {type: "containerisation", stack: ["Docker", "LXC"]}
     contacts:
       keybase: "https://keybase.io/jtprog"
       gpg_key: "172103F339C1FCB4"
