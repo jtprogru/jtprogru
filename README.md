@@ -2,7 +2,6 @@
 
 
 [![Keybase PGP](https://badgen.net/keybase/pgp/jtprog?icon=keybase)][keybase]
-[![Twitter Follow](https://badgen.net/twitter/follow/jtprogru?icon=twitter)][twitter]
 [![Chat](https://badgen.net/badge/icon/%40jtprogru_chat?icon=telegram&label=TG)][tg_chat]
 [![Channel](https://badgen.net/badge/icon/%40jtprogru_channel?icon=telegram&label=TG)][tg_channel]
 
