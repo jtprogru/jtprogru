@@ -1,6 +1,6 @@
 # Hi! My name is Michael - aka [@jtprogru][mygh] 👋
 
-
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jtprogru/my-stack)
 [![Keybase PGP](https://badgen.net/keybase/pgp/jtprog?icon=keybase)][keybase]
 [![Chat](https://badgen.net/badge/icon/%40jtprogru_chat?icon=telegram&label=TG)][tg_chat]
 [![Channel](https://badgen.net/badge/icon/%40jtprogru_channel?icon=telegram&label=TG)][tg_channel]
