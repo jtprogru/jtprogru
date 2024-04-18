@@ -7,24 +7,21 @@
 
 ## A few facts about me
 
-- ☕️ If something needs to be done more than 3 times, then I try to automate it;
-- 🐍 I write on Python and Golang;
-- 🍻 I collect birdekels and caps from beer bottles, but I don't drink at the same time;
-- 📋 My actual CV is available in Russian [here][myrucv] and in English [here][myencv];
+- ☕️ If something needs to be done more than 3 times, I try to automate it;
+- 👨‍💻 I write in Python and Golang;
+- 🍻 I collect birdcages and caps from beer bottles, but I don't drink at the same time;
+- 📋 My actual CV is available in Russian [here][myrucv];
 - 🦄 Always ready to learn new things and share knowledge;
 - 🤖 I love open source and try to share my best practices;
 
 ## Contact
 
-If you are looking for an SRE, Infrastructure Engineer or Cloud Engineer,
-you can contact with me by Email `jtprogru[at]gmail[dot]com` or by Telegram `@jtprogru` (my nickname is the same everywhere).
-I want an Enterprise experience with the GitHub ecosystem.
+If you are looking for an SRE, Infrastructure Engineer, or Cloud Engineer, you can contact me by email `jtprogru[at]gmail[dot]com` or by Telegram `@jtprogru` (my nickname is the same everywhere). I am seeking an enterprise experience with the GitHub ecosystem.
 
 ## My WWW
 
 - Blog (RU) - [![Blog](https://badgen.net/uptime-robot/status/m786673483-2ba02b030974c83543f8cb8d)][myblog]
 - CV (RU) - [![Ru CV](https://badgen.net/uptime-robot/status/m789066456-b53aba2e39f06e8d1d062af9)][myrucv]
-- CV (EN) - [![En CV](https://badgen.net/uptime-robot/status/m791156132-a8f493c18ffe412941cbaf29)][myencv]
 
 <br />
 
