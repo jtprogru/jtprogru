@@ -9,7 +9,7 @@
 
 - ☕️ If something needs to be done more than 3 times, I try to automate it;
 - 👨‍💻 I write in Python and Golang;
-- 🍻 I collect birdcages and caps from beer bottles, but I don't drink at the same time;
+- 🍻 I collect beermat and caps from beer bottles, but I don't drink at the same time;
 - 📋 My actual CV is available in Russian [here][myrucv];
 - 🦄 Always ready to learn new things and share knowledge;
 - 🤖 I love open source and try to share my best practices;
