@@ -1,4 +1,4 @@
-# Hi! My name is Michael - aka [@jtprogru][mygh] 👋
+# Hi! My name is Mikhail - aka [@jtprogru][mygh] 👋
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jtprogru/main-stack)
 [![Keybase PGP](https://badgen.net/keybase/pgp/jtprog?icon=keybase)][keybase]
