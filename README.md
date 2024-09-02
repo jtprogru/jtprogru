@@ -25,7 +25,7 @@ Contact me if you're looking for an SRE, Infrastructure Engineer or Cloud Engine
 
 <br />
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66d5767f553501e3c3a27fd5?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66d5767f553501e3c3a27fd5?variant=dark&roadmaps=golang%2Cdevops%2Csoftware-architect%2Csoftware-design-architecture" alt="roadmap.sh"/></a>
 
 ***
 
