@@ -25,6 +25,8 @@ Contact me if you're looking for an SRE, Infrastructure Engineer or Cloud Engine
 
 <br />
 
+[![roadmap.sh](https://roadmap.sh/card/wide/66d5767f553501e3c3a27fd5?variant=dark)](https://roadmap.sh)
+
 ***
 
 ![Michael Savin GitHub stats](https://github.com/jtprogru/github-stats/blob/master/generated/overview.svg)
