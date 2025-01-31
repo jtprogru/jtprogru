@@ -4,6 +4,7 @@
 [![Keybase PGP](https://badgen.net/keybase/pgp/jtprog?icon=keybase)][keybase]
 [![Chat](https://badgen.net/badge/icon/%40jtprogru_chat?icon=telegram\&label=TG)][tg_chat]
 [![Channel](https://badgen.net/badge/icon/%40jtprogru_channel?icon=telegram\&label=TG)][tg_channel]
+[![Profile views](https://komarev.com/ghpvc/?username=jtprogru&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/jtprogru)
 
 ## Here are a few facts about me
 
