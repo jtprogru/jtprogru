@@ -24,11 +24,7 @@ Contact me if you're looking for an SRE, Infrastructure Engineer or Cloud Engine
 * Blog (RU) - [![Blog](https://badgen.net/uptime-robot/status/m786673483-2ba02b030974c83543f8cb8d)][myblog]
 * CV (RU) - [![Ru CV](https://badgen.net/uptime-robot/status/m789066456-b53aba2e39f06e8d1d062af9)][myrucv]
 
-<br />
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66d5767f553501e3c3a27fd5?variant=light&roadmaps=golang%2Cdevops%2Csoftware-architect%2Csoftware-design-architecture" alt="roadmap.sh"/></a>
-
-***
+---
 
 ![Michael Savin GitHub stats](https://github.com/jtprogru/github-stats/blob/master/generated/overview.svg)
 ![Michael Savin GitHub stats](https://github.com/jtprogru/github-stats/blob/master/generated/languages.svg)
