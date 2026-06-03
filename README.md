@@ -4,7 +4,7 @@
 [![Keybase PGP](https://badgen.net/keybase/pgp/jtprog?icon=keybase)][keybase]
 [![Chat](https://badgen.net/badge/icon/%40jtprogru_chat?icon=telegram\&label=TG)][tg_chat]
 [![Channel](https://badgen.net/badge/icon/%40jtprogru_channel?icon=telegram\&label=TG)][tg_channel]
-[![Profile views](https://komarev.com/ghpvc/?username=jtprogru&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/jtprogru)
+[![Profile views](https://komarev.com/ghpvc/?username=jtprogru&base=10000&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/jtprogru)
 
 ## Here are a few facts about me
 
@@ -29,20 +29,9 @@ Contact me if you're looking for an SRE, Infrastructure Engineer or Cloud Engine
 ![Michael Savin GitHub stats](https://github.com/jtprogru/github-stats/blob/master/generated/overview.svg)
 ![Michael Savin GitHub stats](https://github.com/jtprogru/github-stats/blob/master/generated/languages.svg)
 
-[bio]: https://jtprog.ru/about-me/
 [myrucv]: https://savinmi.ru
-[myencv]: https://s11l.me
 [myblog]: https://jtprog.ru
-[myorg]: https://bearonserver.ru
 [mygh]: https://github.com/jtprogru
-[twitter]: https://twitter.com/jtprogru
-[instagram]: https://instagram.com/jtprogru
-[tg_pm]: https://t.me/jtprogru
 [tg_chat]: https://ttttt.me/jtprogru_chat
 [tg_channel]: https://ttttt.me/jtprogru_channel
-[email]: mailto:mail@jtprog.ru
-[habr]: https://habr.com/ru/users/jtprogru/
-[youtube]: https://www.youtube.com/channel/UCuGKtGjbVk-BtpLM1I6Yzrg
-[podcast]: https://anchor.fm/jtprogru/
 [keybase]: https://keybase.io/jtprog
-[stack]: https://stackshare.io/jtprogru/my-stack
