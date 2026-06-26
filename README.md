@@ -21,8 +21,8 @@ Contact me if you're looking for an SRE, Infrastructure Engineer or Cloud Engine
 
 ## My WWW
 
-* Blog (RU) - [![Blog](https://badgen.net/uptime-robot/status/m786673483-2ba02b030974c83543f8cb8d)][myblog]
-* CV (RU) - [![Ru CV](https://badgen.net/uptime-robot/status/m789066456-b53aba2e39f06e8d1d062af9)][myrucv]
+* Blog (RU) - [jtprog.ru][myblog]
+* CV (RU) - [savinmi.ru][myrucv]
 
 ---
 
