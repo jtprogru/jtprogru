@@ -1,3 +1,5 @@
+![Mikhail Savin — SRE, Infrastructure and Cloud Engineer](./cover.svg)
+
 # Hi! My name is Mikhail - aka [@jtprogru][mygh] 👋
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jtprogru/main-stack)
