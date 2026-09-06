@@ -1,4 +1,4 @@
-![Mikhail Savin — SRE, Infrastructure and Cloud Engineer](./cover.svg)
+![Mikhail Savin — SRE, Infrastructure and Cloud Engineer](./assets/cover.svg)
 
 # Hi! My name is Mikhail - aka [@jtprogru][mygh] 👋
 
@@ -28,12 +28,8 @@ Contact me if you're looking for an SRE, Infrastructure Engineer or Cloud Engine
 
 ---
 
-![Mikhail Savin GitHub overview](https://github.com/jtprogru/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![Mikhail Savin GitHub languages](https://github.com/jtprogru/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![Mikhail Savin GitHub overview](https://github.com/jtprogru/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-![Mikhail Savin GitHub languages](https://github.com/jtprogru/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 
-![Mikhail Savin GitHub metrics](./github-metrics.svg)
+![Mikhail Savin GitHub metrics](./assets/metrics.svg)
 
 [myrucv]: https://savinmi.ru
 [myblog]: https://jtprog.ru

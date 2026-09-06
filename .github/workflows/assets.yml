@@ -1,0 +1,43 @@
+name: Profile assets
+"on":
+  schedule: [{cron: "17 4 * * *"}]
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/assets.yml"
+permissions:
+  contents: write
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # METRICS_TOKEN is a PAT with read:user + repo — it also counts private
+      # repositories and commits. Without it the built-in token renders
+      # public numbers only.
+      - name: Render cover.svg and metrics.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || github.token }}
+        run: |
+          python3 scripts/gen_cover.py --user jtprogru --output assets/cover.svg
+          python3 scripts/gen_metrics.py --user jtprogru --output assets/metrics.svg
+      - name: Commit
+        run: |
+          if git diff --quiet -- assets/; then
+            echo "assets unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git commit -m "chore(assets): refresh profile SVGs - [Skip GitHub Action]"
+          git pull --rebase origin main
+          git push
