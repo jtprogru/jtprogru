@@ -28,8 +28,12 @@ Contact me if you're looking for an SRE, Infrastructure Engineer or Cloud Engine
 
 ---
 
-![Michael Savin GitHub stats](https://github.com/jtprogru/github-stats/blob/master/generated/overview.svg)
-![Michael Savin GitHub stats](https://github.com/jtprogru/github-stats/blob/master/generated/languages.svg)
+![Mikhail Savin GitHub overview](https://github.com/jtprogru/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![Mikhail Savin GitHub languages](https://github.com/jtprogru/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![Mikhail Savin GitHub overview](https://github.com/jtprogru/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![Mikhail Savin GitHub languages](https://github.com/jtprogru/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+
+![Mikhail Savin GitHub metrics](./github-metrics.svg)
 
 [myrucv]: https://savinmi.ru
 [myblog]: https://jtprog.ru
