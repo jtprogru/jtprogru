@@ -33,7 +33,7 @@ I'm a Lead SRE and Head of Reliability at [h3llo.cloud][h3llo], building the SRE
 
 ## Contact
 
-Write me in Telegram — [@jtprogru][tg_me] — about work, consulting, or anything around SRE, reliability, incident management and on-call. For a call, book a slot in [my calendar][calendar].
+Write me in Telegram — [@jtprogru][tg_me] — about work, consulting, or anything around SRE, reliability, incident management and on-call.
 
 ## My WWW
 
@@ -58,7 +58,6 @@ Write me in Telegram — [@jtprogru][tg_me] — about work, consulting, or anyth
 [devopsconf]: https://devopsconf.io/
 [waysre]: https://jtprogru.github.io/The-Way-of-SRE/
 [getmentor]: https://getmentor.dev/mentor/jtprogru
-[calendar]: https://calendlab.ru/c/jtprogru-getmentor
 [habr]: https://habr.com/ru/users/jtprogru/
 [unsplash]: https://unsplash.com/@jtprogru
 [srekit]: https://github.com/jtprogru/srekit
