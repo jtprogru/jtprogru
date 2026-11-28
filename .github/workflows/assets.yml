@@ -1,28 +1,45 @@
 name: Profile assets
 "on":
-  schedule: [{cron: "17 4 * * *"}]
+  schedule: [{cron: "17 4 * * 1"}]  # Mondays, 04:17 UTC
+  pull_request:
+    branches: ["main"]
   workflow_dispatch:
   push:
     branches: ["main"]
     paths:
       - "scripts/**"
+      - "tests/**"
       - ".github/workflows/assets.yml"
 permissions:
-  contents: write
-concurrency:
-  group: profile-assets
-  cancel-in-progress: false
+  contents: read
 jobs:
-  render:
+  test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
-      # METRICS_TOKEN is a PAT with read:user + repo — it also counts private
-      # repositories and commits. Without it the built-in token renders
-      # public numbers only.
+      - run: python3 -B -m unittest discover -s tests -v
+
+  render:
+    needs: test
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    permissions:
+      contents: write
+    concurrency:
+      group: profile-assets
+      cancel-in-progress: false
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      # Use METRICS_TOKEN only to include aggregates visible to that token.
+      # The built-in token suffices for the public profile.
       - name: Render cover.svg and metrics.svg
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || github.token }}
