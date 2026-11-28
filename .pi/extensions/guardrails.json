@@ -1,0 +1,16 @@
+{
+  "$schema": "https://unpkg.com/@aliou/pi-guardrails@0.24.0/schema.json",
+  "pathAccess": {
+    "allowedPaths": [
+      {
+        "kind": "directory",
+        "path": "~/Work/github"
+      },
+      {
+        "kind": "directory",
+        "path": "~/.codex/.bear-skills/rules"
+      }
+    ]
+  },
+  "version": "0.24.0"
+}

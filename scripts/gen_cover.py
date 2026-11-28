@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Generate assets/cover.svg for the profile README from live GitHub data.
 
-Everything the cover shows — lifetime commits, opened PRs, repository and
-follower counts, years on GitHub and the three pinned projects — is pulled
-from the GitHub GraphQL API and rendered into a self-contained SVG.
+All stats come from the GitHub GraphQL API. Commit contributions and
+restricted contributions are separate lifetime counts: GitHub does not
+identify the type of a restricted contribution.
 
 Auth: pass --token, or set GITHUB_TOKEN / GH_TOKEN. A classic token needs
 `read:user` (add `repo` to count commits in private repositories); the
@@ -55,7 +55,7 @@ CARD_X = 660
 CARD_W = 476
 CARD_H = 92
 CARD_Y = (92, 196, 300)  # top edge of each pinned card
-STAT_X = (64, 194, 334, 444)  # left edge of each stat column
+STAT_X = (64, 170, 367, 466, 540)  # left edge of each stat column
 META_RIGHT = 1116  # right edge of the "<language> ★ <stars>" line
 META_GAP = 28  # space between the language dot and its label
 DESC_CHARS = 52  # characters that fit on one description line of a card
@@ -102,7 +102,7 @@ def contributions_query(years: list[int]) -> str:
     return "query($login: String!) {\n  user(login: $login) {\n" + fields + "\n  }\n}"
 
 
-def collect(login: str, token: str, include_private: bool) -> dict[str, Any]:
+def collect(login: str, token: str) -> dict[str, Any]:
     user = api(PROFILE_QUERY, {"login": login}, token)["user"]
     if user is None:
         sys.exit(f"user {login} not found")
@@ -112,6 +112,7 @@ def collect(login: str, token: str, include_private: bool) -> dict[str, Any]:
     years = list(range(created.year, now.year + 1))
 
     commits = 0
+    restricted_contributions = 0
     # 20 aliases per request keeps the query under GitHub's node limits.
     for chunk_start in range(0, len(years), 20):
         chunk = years[chunk_start : chunk_start + 20]
@@ -119,8 +120,7 @@ def collect(login: str, token: str, include_private: bool) -> dict[str, Any]:
         for year in chunk:
             bucket = data[f"y{year}"]
             commits += bucket["totalCommitContributions"]
-            if include_private:
-                commits += bucket["restrictedContributionsCount"]
+            restricted_contributions += bucket["restrictedContributionsCount"]
 
     # Whole years, not a difference of year numbers: an account opened in
     # December must not gain a year on 1 January.
@@ -143,6 +143,7 @@ def collect(login: str, token: str, include_private: bool) -> dict[str, Any]:
         "login": user["login"],
         "name": user["name"] or user["login"],
         "commits": commits,
+        "restricted_contributions": restricted_contributions,
         "prs": user["pullRequests"]["totalCount"],
         "repos": user["repositories"]["totalCount"],
         "followers": user["followers"]["totalCount"],
@@ -189,14 +190,17 @@ def render(data: dict[str, Any], tagline: str, handle_title: str, links: list[st
     pinned_names = ", ".join(repo["name"] for repo in data["pinned"])
     aria = (
         f"{data['name']} ({handle_title}), @{data['login']} — {tagline}."
+        f" {thousands(data['commits'])} commits;"
+        f" {thousands(data['restricted_contributions'])} restricted contributions."
         f" Pinned projects: {pinned_names}"
     )
     stats = "\n".join(
         [
             stat(0, thousands(data["commits"]), "COMMITS"),
-            stat(1, thousands(data["prs"]), "PRs OPENED"),
-            stat(2, thousands(data["repos"]), "REPOS"),
-            stat(3, thousands(data["followers"]), "FOLLOWERS"),
+            stat(1, thousands(data["restricted_contributions"]), "RESTRICTED CONTRIBUTIONS"),
+            stat(2, thousands(data["prs"]), "PRs OPENED"),
+            stat(3, thousands(data["repos"]), "REPOS"),
+            stat(4, thousands(data["followers"]), "FOLLOWERS"),
         ]
     )
     cards = "\n\n".join(card(i, repo) for i, repo in enumerate(data["pinned"]))
@@ -255,7 +259,7 @@ def main() -> int:
     parser.add_argument("--title", default="Мишка на сервере", help="the yellow line under the name")
     parser.add_argument(
         "--tagline",
-        default="SRE · Infrastructure Engineer · Cloud Engineer",
+        default="Lead SRE · Head of Reliability at h3llo.cloud",
         help="the grey line under the handle",
     )
     parser.add_argument(
@@ -264,18 +268,13 @@ def main() -> int:
         dest="links",
         help="footer link, repeatable (default: jtprog.ru, savinmi.ru, t.me/jtprogru_channel)",
     )
-    parser.add_argument(
-        "--exclude-private",
-        action="store_true",
-        help="count only public commits (private ones are included by default)",
-    )
     parser.add_argument("--check", action="store_true", help="exit 1 if the file would change")
     parser.add_argument("--print-stats", action="store_true", help="dump the collected numbers as JSON")
     args = parser.parse_args()
 
     token = token_from_env(args.token)
     links = args.links or ["jtprog.ru", "savinmi.ru", "t.me/jtprogru_channel"]
-    data = collect(args.user, token, include_private=not args.exclude_private)
+    data = collect(args.user, token)
     if args.print_stats:
         print(json.dumps({k: v for k, v in data.items() if k != "pinned"}, ensure_ascii=False, indent=2))
     svg = render(data, tagline=args.tagline, handle_title=args.title, links=links)
