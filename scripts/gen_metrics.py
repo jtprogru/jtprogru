@@ -87,7 +87,6 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
     gists { totalCount }
     contributionsCollection(from: $from, to: $to) {
       totalCommitContributions
-      restrictedContributionsCount
       totalPullRequestContributions
       totalPullRequestReviewContributions
       totalIssueContributions
@@ -129,7 +128,7 @@ query($login: String!, $cursor: String) {
 """
 
 
-def collect(login: str, token: str, include_private: bool) -> dict[str, Any]:
+def collect(login: str, token: str) -> dict[str, Any]:
     now = now_utc()
     frm = now - dt.timedelta(days=365)
     activity = api(
@@ -145,9 +144,6 @@ def collect(login: str, token: str, include_private: bool) -> dict[str, Any]:
         sys.exit(f"user {login} not found")
 
     contributions = activity["contributionsCollection"]
-    commits = contributions["totalCommitContributions"]
-    if include_private:
-        commits += contributions["restrictedContributionsCount"]
 
     sizes: dict[str, int] = {}
     colors: dict[str, str] = {}
@@ -184,7 +180,7 @@ def collect(login: str, token: str, include_private: bool) -> dict[str, Any]:
         "from": frm.date().isoformat(),
         "to": now.date().isoformat(),
         "contributions": contributions["contributionCalendar"]["totalContributions"],
-        "commits": commits,
+        "commits": contributions["totalCommitContributions"],
         "prs": contributions["totalPullRequestContributions"],
         "reviews": contributions["totalPullRequestReviewContributions"],
         "issues": contributions["totalIssueContributions"],
@@ -342,7 +338,7 @@ def render(data: dict[str, Any]) -> str:
     <line x1="64" y1="304" x2="{BAR_RIGHT}" y2="304" stroke="{LINE}"/>
 
     <!-- ============ languages ============ -->
-    <text x="64" y="{BAR_Y - 14}" font-family="{FONT_SANS}" font-size="17" fill="{TEXT}">{dot_join(["Languages", f'<tspan fill="{DIM}">top {len(data["languages"])} of {data["language_count"]} across {data["repos"]} own repositories</tspan>'], DIM)}</text>
+    <text x="64" y="{BAR_Y - 14}" font-family="{FONT_SANS}" font-size="17" fill="{TEXT}">{dot_join(["Languages", f'<tspan fill="{DIM}">top {min(TOP_LANGUAGES, data["language_count"])} of {data["language_count"]} across {data["repos"]} own repositories</tspan>'], DIM)}</text>
 
 {language_bar(data['languages'])}
 
@@ -370,17 +366,12 @@ def main() -> int:
     parser.add_argument("--user", default="jtprogru", help="GitHub login (default: jtprogru)")
     parser.add_argument("--output", default="assets/metrics.svg", help="where to write the SVG")
     parser.add_argument("--token", help="GitHub token (default: $GITHUB_TOKEN or $GH_TOKEN)")
-    parser.add_argument(
-        "--exclude-private",
-        action="store_true",
-        help="count only public commits (private ones are included by default)",
-    )
     parser.add_argument("--check", action="store_true", help="exit 1 if the file would change")
     parser.add_argument("--print-stats", action="store_true", help="dump the collected numbers as JSON")
     args = parser.parse_args()
 
     token = token_from_env(args.token)
-    data = collect(args.user, token, include_private=not args.exclude_private)
+    data = collect(args.user, token)
     if args.print_stats:
         skip = {"weeks", "languages"}
         print(json.dumps({k: v for k, v in data.items() if k not in skip}, ensure_ascii=False, indent=2))

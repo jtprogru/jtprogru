@@ -96,13 +96,13 @@ def contributions_query(years: list[int]) -> str:
     fields = "\n".join(
         f'    y{year}: contributionsCollection('
         f'from: "{year}-01-01T00:00:00Z", to: "{year}-12-31T23:59:59Z"'
-        ") { totalCommitContributions restrictedContributionsCount }"
+        ") { totalCommitContributions }"
         for year in years
     )
     return "query($login: String!) {\n  user(login: $login) {\n" + fields + "\n  }\n}"
 
 
-def collect(login: str, token: str, include_private: bool) -> dict[str, Any]:
+def collect(login: str, token: str) -> dict[str, Any]:
     user = api(PROFILE_QUERY, {"login": login}, token)["user"]
     if user is None:
         sys.exit(f"user {login} not found")
@@ -117,10 +117,7 @@ def collect(login: str, token: str, include_private: bool) -> dict[str, Any]:
         chunk = years[chunk_start : chunk_start + 20]
         data = api(contributions_query(chunk), {"login": login}, token)["user"]
         for year in chunk:
-            bucket = data[f"y{year}"]
-            commits += bucket["totalCommitContributions"]
-            if include_private:
-                commits += bucket["restrictedContributionsCount"]
+            commits += data[f"y{year}"]["totalCommitContributions"]
 
     # Whole years, not a difference of year numbers: an account opened in
     # December must not gain a year on 1 January.
@@ -255,7 +252,7 @@ def main() -> int:
     parser.add_argument("--title", default="Мишка на сервере", help="the yellow line under the name")
     parser.add_argument(
         "--tagline",
-        default="SRE · Infrastructure Engineer · Cloud Engineer",
+        default="Lead SRE · Head of Reliability at h3llo.cloud",
         help="the grey line under the handle",
     )
     parser.add_argument(
@@ -264,18 +261,13 @@ def main() -> int:
         dest="links",
         help="footer link, repeatable (default: jtprog.ru, savinmi.ru, t.me/jtprogru_channel)",
     )
-    parser.add_argument(
-        "--exclude-private",
-        action="store_true",
-        help="count only public commits (private ones are included by default)",
-    )
     parser.add_argument("--check", action="store_true", help="exit 1 if the file would change")
     parser.add_argument("--print-stats", action="store_true", help="dump the collected numbers as JSON")
     args = parser.parse_args()
 
     token = token_from_env(args.token)
     links = args.links or ["jtprog.ru", "savinmi.ru", "t.me/jtprogru_channel"]
-    data = collect(args.user, token, include_private=not args.exclude_private)
+    data = collect(args.user, token)
     if args.print_stats:
         print(json.dumps({k: v for k, v in data.items() if k != "pinned"}, ensure_ascii=False, indent=2))
     svg = render(data, tagline=args.tagline, handle_title=args.title, links=links)
