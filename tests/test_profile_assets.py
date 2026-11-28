@@ -15,7 +15,7 @@ NOW = dt.datetime(2026, 11, 15, tzinfo=dt.timezone.utc)
 
 
 class ProfileAssetsTest(unittest.TestCase):
-    def test_cover_sums_commit_contributions_across_years(self):
+    def test_cover_keeps_commits_and_restricted_contributions_separate(self):
         profile = {
             "login": "example", "name": "R&D", "createdAt": "2025-12-01T00:00:00Z",
             "repositories": {"totalCount": 1}, "followers": {"totalCount": 2},
@@ -31,7 +31,9 @@ class ProfileAssetsTest(unittest.TestCase):
             data = gen_cover.collect("example", "test-token")
         svg = ET.fromstring(gen_cover.render(data, "Lead SRE", "Example", ["example.org"]))
         self.assertEqual(data["commits"], 30)
-        self.assertIn("30", list(svg.itertext()))
+        self.assertEqual(data["restricted_contributions"], 13)
+        for label, value in [("COMMITS", "30"), ("RESTRICTED CONTRIBUTIONS", "13")]:
+            self.assertEqual(svg.findtext(f".//{{*}}g[{{*}}text='{label}']/{{*}}text"), value)
         self.assertIn("Tools <3", list(svg.itertext()))
         self.assertIn("R&D", svg.attrib["aria-label"])
 
