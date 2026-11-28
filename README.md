@@ -1,8 +1,8 @@
-![Mikhail Savin — SRE, Infrastructure and Cloud Engineer](./assets/cover.svg)
+![Mikhail Savin — Lead SRE and Head of Reliability at h3llo.cloud](./assets/cover.svg)
 
 # Hi! My name is Mikhail - aka [@jtprogru][mygh] 👋
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jtprogru/main-stack)
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jtprogru/main-stack)
 [![Keybase PGP](https://badgen.net/keybase/pgp/jtprog?icon=keybase)][keybase]
 [![Chat](https://badgen.net/badge/icon/%40jtprogru_chat?icon=telegram\&label=TG)][tg_chat]
 [![Channel](https://badgen.net/badge/icon/%40jtprogru_channel?icon=telegram\&label=TG)][tg_channel]
@@ -20,7 +20,7 @@ I'm a Lead SRE and Head of Reliability at [h3llo.cloud][h3llo], building the SRE
 * 🧑‍🏫 I mentor via [GetMentor][getmentor] and occasionally teach at RTU MIREA;
 * 🍻 I collect beer mat and caps from beer bottles, but I don't drink at the same time;
 * 📷 I shoot mobile photography — [Unsplash][unsplash] and [Michael behind lens][tg_lens];
-* 📋 My actual CV is available [here][myrucv] in Russian;
+* 📋 Read [my CV in Russian][myrucv] or the short [Ansible-style profile](./ansible.yaml);
 * 🦄 Always ready to learn new things and share knowledge.
 
 ## Pet projects
@@ -49,8 +49,8 @@ Write me in Telegram — [@jtprogru][tg_me] — about work, consulting, or anyth
 [myrucv]: https://savinmi.ru
 [myblog]: https://jtprog.ru
 [mygh]: https://github.com/jtprogru
-[tg_chat]: https://ttttt.me/jtprogru_chat
-[tg_channel]: https://ttttt.me/jtprogru_channel
+[tg_chat]: https://t.me/jtprogru_chat
+[tg_channel]: https://t.me/jtprogru_channel
 [tg_me]: https://t.me/jtprogru
 [tg_lens]: https://t.me/michael_behind_lens
 [keybase]: https://keybase.io/jtprog
